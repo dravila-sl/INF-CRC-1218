@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs and Temp files
+*.log
+*.tmp
+*.swp
+*.lock
+*.bak
+*.ori
