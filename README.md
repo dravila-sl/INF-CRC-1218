@@ -1,3 +1,3 @@
-# Research-Data-Management
+# Research-Data-Management INF-CRC 1218
 
-Repository containing educational information related to Research Data Management (RDM) with specific use-case examples.
+Documentation of research data management strategies associated to the CRC 1218.
